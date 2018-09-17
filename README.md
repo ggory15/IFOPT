@@ -1,3 +1,8 @@
+This is a module for IFOPT to use this in HPP.
+
+The original code will be available in https://github.com/ethz-adrl/ifopt
+
+
 ### <img src="https://i.imgur.com/ZOfGZwB.png" height="60" />
 
 [![Build Status](http://build.ros.org/buildStatus/icon?job=Kdev__ifopt__ubuntu_xenial_amd64)](http://build.ros.org/view/Kdev/job/Kdev__ifopt__ubuntu_xenial_amd64/)
